@@ -58,6 +58,13 @@ Contextualização do projeto acadêmico
 
 Este material garante rastreabilidade e comprovação da execução correta do projeto.
 
+## 📄 Documentação
+
+A documentação completa do projeto, incluindo evidências de execução e resultados obtidos, está disponível no arquivo PDF abaixo:
+
+🔗 [Visualizar documentação do projeto (PDF)](docs/Relatorio_API_Cidades.pdf)
+
+
 🧠 Competências Desenvolvidas
 
 Durante o desenvolvimento deste projeto, foram trabalhadas competências relevantes para ambientes profissionais:
