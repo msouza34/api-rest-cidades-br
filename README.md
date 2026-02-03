@@ -1,72 +1,85 @@
-API REST – Consulta de Cidades Brasileiras
-Visão Geral
+🚀 Integração com API REST – Cidades Brasileiras
+📌 Visão Geral
 
-Este repositório contém um projeto acadêmico desenvolvido com foco no consumo de uma API REST, utilizando Python para autenticação e consulta de dados. O projeto foi proposto em ambiente universitário com o objetivo de consolidar conceitos práticos relacionados a requisições HTTP, autenticação por token e documentação técnica.
+Este projeto demonstra a integração com uma API REST autenticada, utilizando Python para realizar requisições HTTP, gerenciar tokens de acesso e consumir dados estruturados no formato JSON.
 
-A aplicação realiza a autenticação em uma API fornecida pelo professor, obtém um token de acesso válido e, a partir dele, consulta uma lista de cidades brasileiras. Como entrega final, os resultados são organizados em um documento PDF, conforme os critérios estabelecidos na atividade.
+A aplicação foi desenvolvida em contexto acadêmico, com foco na aplicação prática de conceitos amplamente utilizados no mercado, como autenticação baseada em token, consumo de APIs, tratamento de respostas HTTP e documentação técnica organizada.
 
-Objetivo do Projeto
+🎯 Objetivo
 
-Demonstrar, de forma prática, a capacidade de:
+O principal objetivo do projeto é validar o domínio dos seguintes pontos:
 
-Consumir APIs REST de forma segura
+Comunicação com APIs REST
 
-Trabalhar com autenticação baseada em token
+Autenticação e controle de acesso via token
 
-Manipular respostas JSON
+Estruturação e organização de dados retornados por serviços externos
 
-Organizar e documentar resultados técnicos
+Documentação clara e objetiva de processos técnicos
 
-Gerar documentação formal para entrega acadêmica
+Entrega de resultados de forma profissional
 
-Tecnologias Utilizadas
+🧩 Escopo da Aplicação
 
-Python 3
+A aplicação executa as seguintes etapas:
 
-Biblioteca Requests
+Realiza autenticação em uma API REST utilizando credenciais fornecidas.
 
-Ferramenta para geração de PDF
+Recebe um token de acesso válido para requisições autenticadas.
 
-API REST disponibilizada pelo professor
+Envia o token no header das requisições subsequentes.
 
-Funcionamento Geral
+Consulta uma lista de cidades brasileiras.
 
-O fluxo do projeto segue as etapas abaixo:
+Seleciona cinco cidades conforme os critérios da atividade.
 
-Autenticação na API utilizando e-mail e senha fornecidos.
+Consolida os dados e evidências em um documento PDF.
 
-Geração de um token de acesso válido.
+🛠 Tecnologias Utilizadas
+Tecnologia	Finalidade
+Python 3	Linguagem principal
+Requests	Requisições HTTP
+API REST	Fonte dos dados
+PDF Generator	Documentação final
+📄 Documentação e Evidências
 
-Envio do token no header das requisições subsequentes.
+Como parte da entrega, foi gerado um documento PDF contendo:
 
-Consulta da lista de cidades brasileiras.
+Identificação do aluno (nome completo e RA)
 
-Seleção de cinco cidades conforme solicitado.
+Token de acesso obtido na execução
 
-Organização das informações em um documento PDF.
+Lista das cinco cidades brasileiras apresentada em tabela
 
-Documento de Entrega (PDF)
+Prints de tela comprovando o funcionamento da aplicação
 
-O PDF gerado contém:
+Contextualização do projeto acadêmico
 
-Nome completo do aluno
+Este material garante rastreabilidade e comprovação da execução correta do projeto.
 
-RA
+🧠 Competências Desenvolvidas
 
-Token de acesso utilizado na execução
+Durante o desenvolvimento deste projeto, foram trabalhadas competências relevantes para ambientes profissionais:
 
-Lista das cinco cidades brasileiras em formato de tabela
+Integração entre sistemas
 
-Prints de tela comprovando a execução do sistema
+Consumo de serviços web
 
-Referência ao projeto acadêmico
+Segurança e autenticação em APIs
 
-Este documento foi desenvolvido para atender integralmente aos requisitos definidos na atividade.
+Organização e clareza na documentação técnica
 
-Contexto Acadêmico
+Atenção a requisitos e critérios de entrega
 
-Projeto desenvolvido como parte das atividades da disciplina, com foco em integração de sistemas, APIs REST e documentação técnica. O trabalho reforça conceitos essenciais utilizados em ambientes profissionais de desenvolvimento de software.
-
-Autor
+🧑‍💻 Autor
 
 Matheus Silva
+
+
+📎 Observações
+
+As credenciais utilizadas são fornecidas exclusivamente para fins acadêmicos.
+
+O token de acesso possui validade definida pela API.
+
+O projeto segue rigorosamente as orientações propostas na atividade.
