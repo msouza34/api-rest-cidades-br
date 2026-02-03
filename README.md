@@ -1,4 +1,5 @@
 🚀 Integração com API REST – Cidades Brasileiras
+
 📌 Visão Geral
 
 Este projeto demonstra a integração com uma API REST autenticada, utilizando Python para realizar requisições HTTP, gerenciar tokens de acesso e consumir dados estruturados no formato JSON.
