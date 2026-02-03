@@ -42,6 +42,7 @@ Python 3	Linguagem principal
 Requests	Requisições HTTP
 API REST	Fonte dos dados
 PDF Generator	Documentação final
+
 📄 Documentação e Evidências
 
 Como parte da entrega, foi gerado um documento PDF contendo:
